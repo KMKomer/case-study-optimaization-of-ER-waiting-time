@@ -22,3 +22,10 @@ The objective of this study is to optimise the patients' waiting times in 5 hosp
 3- Model building 
 
 4- Evaluation
+
+
+
+
+
+
+### by doing the EDA we will be allowed to take a close look at the data and measure relationships between variables affecting the waiting time and patient satisfaction in the hospitals 
