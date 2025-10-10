@@ -29,3 +29,30 @@ The objective of this study is to optimise the patients' waiting times in 5 hosp
 
 
 ### by doing the EDA we will be allowed to take a close look at the data and measure relationships between variables affecting the waiting time and patient satisfaction in the hospitals 
+
+we can see by the graph down here the relationship between date and waiting times 
+
+
+
+
+
+Also here we can see the frequency of visits per week day
+
+
+
+
+
+
+
+Here we see the total waiting time per month 
+
+
+
+
+
+
+
+
+
+The most visited Hours during the day and variance months 
+
