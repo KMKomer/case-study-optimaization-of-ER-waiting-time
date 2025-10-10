@@ -1,4 +1,4 @@
-# case-study-optimaization-of-ER-waiting-time
+i# case-study-optimaization-of-ER-waiting-time
 
 The objective of this study is to optimise the patients' waiting times in 5 hospitals distributed through the U.S from a stimulated Kaggle dataset called E.R Wait time overview 
 
@@ -29,6 +29,10 @@ The objective of this study is to optimise the patients' waiting times in 5 hosp
 
 
 ### by doing the EDA we will be allowed to take a close look at the data and measure relationships between variables affecting the waiting time and patient satisfaction in the hospitals 
+
+
+here's some examples of key the insights 
+![genral relationships between numerical featurs](folder/scatter correlation(2).png)
 
 we can see by the graph down here the relationship between date and waiting times 
 
