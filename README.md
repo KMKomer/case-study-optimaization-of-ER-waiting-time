@@ -32,7 +32,7 @@ The objective of this study is to optimise the patients' waiting times in 5 hosp
 
 
 here's some examples of key the insights 
-![genral relationships between numerical featurs](folder/scatter correlation(2).png)
+![genral relationships between numerical featurs](Folder/scatter corelation(2).png)
 
 we can see by the graph down here the relationship between date and waiting times 
 
