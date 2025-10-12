@@ -33,8 +33,12 @@ The objective of this study is to optimise the patients' waiting times in 5 hosp
 
 here's some examples of key the insights 
 
-![A](Folder/scatter_corelation(2).png)
-![Alt text](Folder/scatter_corelationspng)
+
+
+![Alt text](Folder/scatter_correlations.png)
+
+
+
 we can see by the graph down here the relationship between date and waiting times 
 
 
