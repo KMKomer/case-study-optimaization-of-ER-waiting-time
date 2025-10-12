@@ -35,7 +35,7 @@ here's some examples of key the insights
 
 
 
-![Alt text](Folder/scatter_correlations.png)
+![Alt text](Folder/scatter_corelations.png)
 
 
 
