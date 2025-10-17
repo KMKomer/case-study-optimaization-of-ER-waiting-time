@@ -46,6 +46,11 @@ here's some examples of key the insights
 ![Alt text](Folder/hour.png)
 
 
+2- Also here we see a clear effect by month. we recognise a reasonable increasement over Christmas and Easter holidays 
+
+![Alt_text](Folder/month.png)
+
+
 
 we can see by the graph down here the relationship between date and waiting times 
 
