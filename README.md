@@ -31,15 +31,19 @@ The objective of this study is to optimise the patients' waiting times in 5 hosp
 by doing the EDA we will be allowed to take a close look at the data and measure relationships between variables affecting the waiting time and patient satisfaction in the hospitals 
 
 
-Here we have a histogram shows the distribution of waiting time:
-![Alt_text](wait_time_dist.png)
+Here we have a histogram shows the distribution of waiting time over the year:
+![Alt_text](Folder/wait_date_dist.png)
+
+
+
 
 
 here's some examples of key the insights 
 
+1- Here we have the average waiting time per different hours of the day
 
 
-![Alt text](Folder/scatter_corelations.png)
+![Alt text](Folder/hour.png)
 
 
 
