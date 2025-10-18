@@ -39,7 +39,7 @@ Here we have a histogram shows the distribution of waiting time over the year:
 
 
 We also see the frequency of wait times. We can easly notice that most people wait less than 100 mins (~ about 81 mins):
-[!Alt_text](Folder/wait_dist.png)
+![Alt_text](Folder/wait_dist.png)
 
 
 ### Here's some examples of key the insights 
