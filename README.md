@@ -56,7 +56,7 @@ We also see the frequency of wait times. We can easly notice that most people wa
 
 3- We can clearly see the great effect of monday (and weekends genrally) on high wait time:
 
-[!Alt_text](Folder/wait_week_effect.png)
+![Alt_text](Folder/wait_week_effect.png)
 
 we can see by the graph down here the relationship between date and waiting times 
 
