@@ -38,7 +38,11 @@ Here we have a histogram shows the distribution of waiting time over the year:
 
 
 
-here's some examples of key the insights 
+We also see the frequency of wait times. We can easly notice that most people wait less than 100 mins (~ about 81 mins):
+[!Alt_text](Folder/wait_dist.png)
+
+
+### Here's some examples of key the insights 
 
 1- Here we have the average waiting time per different hours of the day
 
@@ -50,7 +54,9 @@ here's some examples of key the insights
 
 ![Alt_text](Folder/month.png)
 
+3- We can clearly see the great effect of monday (and weekends genrally) on high wait time:
 
+[!Alt_text](Folder/wait_week_effect.png)
 
 we can see by the graph down here the relationship between date and waiting times 
 
