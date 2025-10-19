@@ -58,21 +58,25 @@ We also see the frequency of wait times. We can easly notice that most people wa
 
 ![Alt_text](Folder/wait_week_effect.png)
 
-we can see by the graph down here the relationship between date and waiting times 
+We can see by the graph down here the relationship between week day over componantes of the overall waiting times 
+![Alt_texe](Folder/distributions_of_times)
 
 
 
 
+#### We can can now start to have fun distinguising the strange relations, starting with my favorite (correlation matrix)
+![Alt_texe](Folder/corrr)
 
-Also here we can see the frequency of visits per week day
+WE clearly see the red danger :) 
+
+So we want to dive deep and explore our data in depth by the most effective way to do so, using visuals! 
+Seeing this great viz may make U feel DIZY abit:
+![Alt_texe](Folder/pairplot)
 
 
+### BY NOW WE CAN START OUR ANALYSIS
+##### STARTING WITH BUILDING AN OLS!!
 
-
-
-
-
-Here we see the total waiting time per month 
 
 
 
