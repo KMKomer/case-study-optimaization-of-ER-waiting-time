@@ -59,19 +59,19 @@ We also see the frequency of wait times. We can easly notice that most people wa
 ![Alt_text](Folder/wait_week_effect.png)
 
 We can see by the graph down here the relationship between week day over componantes of the overall waiting times 
-![Alt_texe](Folder/distributions_of_times)
+![Alt_texe](Folder/distributions_of_times.png)
 
 
 
 
 #### We can can now start to have fun distinguising the strange relations, starting with my favorite (correlation matrix)
-![Alt_texe](Folder/corrr)
+![Alt_texe](Folder/corrr.png)
 
 WE clearly see the red danger :) 
 
 So we want to dive deep and explore our data in depth by the most effective way to do so, using visuals! 
 Seeing this great viz may make U feel DIZY abit:
-![Alt_texe](Folder/pairplot)
+![Alt_texe](Folder/pairplot.png)
 
 
 ### BY NOW WE CAN START OUR ANALYSIS
