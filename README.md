@@ -59,7 +59,7 @@ We also see the frequency of wait times. We can easly notice that most people wa
 ![Alt_text](Folder/wait_week_effect.png)
 
 We can see by the graph down here the relationship between week day over componantes of the overall waiting times 
-![Alt_text](Folder/distribution_of_times.png)
+![Alt_text](Folder/distribution_of_time.png)
 
 
 
