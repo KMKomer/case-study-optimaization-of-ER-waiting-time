@@ -47,7 +47,7 @@ We also see the frequency of wait times. We can easly notice that most people wa
 1- Here we have the average waiting time per different hours of the day
 
 
-![Alt text](Folder/hour.png)
+![Alt_text](Folder/hour.png)
 
 
 2- Also here we see a clear effect by month. we recognise a reasonable increasement over Christmas and Easter holidays 
@@ -59,7 +59,7 @@ We also see the frequency of wait times. We can easly notice that most people wa
 ![Alt_text](Folder/wait_week_effect.png)
 
 We can see by the graph down here the relationship between week day over componantes of the overall waiting times 
-![Alt_texe](Folder/distributions_of_times.png)
+![Alt_text](Folder/distributions_of_times.png)
 
 
 
@@ -71,7 +71,7 @@ WE clearly see the red danger :)
 
 So we want to dive deep and explore our data in depth by the most effective way to do so, using visuals! 
 Seeing this great viz may make U feel DIZY abit:
-![Alt_texe](Folder/pairplot.png)
+![Alt_text](Folder/pairplot.png)
 
 
 ### BY NOW WE CAN START OUR ANALYSIS
