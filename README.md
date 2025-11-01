@@ -6,7 +6,7 @@ The objective of this study is to optimise the patients' waiting times in 5 hosp
 
 1- Identify the variables affecting patients' wait time and its distribution 
 
-2- Estimate a descriptive formula that represents the interference of the various variables affecting the waiting time
+2- Build a descriptive model capturing the interactions between different factors affecting patients satisfaction 
 
 3- train a Model to predict future waiting times and crisises that can affect patients' satisfaction 
 
@@ -59,22 +59,25 @@ We also see the frequency of wait times. We can easly notice that most people wa
 ![Alt_text](Folder/wait_week_effect.png)
 
 We can see by the graph down here the relationship between week day over componantes of the overall waiting times 
+
 ![Alt_text](Folder/distributions_of_time.png)
 
 
 
 
 #### We can can now start to have fun distinguising the strange relations, starting with my favorite (correlation matrix)
+
 ![Alt_texe](Folder/corrr.png)
 
 WE clearly see the red danger :) 
 
 So we want to dive deep and explore our data in depth by the most effective way to do so, using visuals! 
-Seeing this great viz may make U feel DIZY abit:
+Seeing this great pair plot:
+
 ![Alt_text](Folder/pairplot.png)
 
 
-### BY NOW WE CAN START OUR ANALYSIS
+## BY NOW WE CAN START OUR ANALYSIS
 ##### STARTING WITH BUILDING AN OLS!!
 
 
