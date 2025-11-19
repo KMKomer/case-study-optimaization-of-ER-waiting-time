@@ -29,10 +29,6 @@ The objective of this study is to optimise the patients' waiting times in 5 hosp
 
 
 
-
-by doing the EDA we will be allowed to take a close look at the data and measure relationships between variables affecting the waiting time and patient satisfaction in the hospitals 
-
-
 Here we have a histogram shows the distribution of waiting time over the year:
 
 
@@ -52,7 +48,7 @@ The frequency of wait time make us capable of easly noticing that most people wa
 
 
 
-### Examples of key the insights 
+### EXAMPLES OF KEY RELATIONSHIPS 
 
 1- Here we see the average waiting time per different hours of the day:
 
@@ -72,21 +68,17 @@ The frequency of wait time make us capable of easly noticing that most people wa
 
 ![Alt_text](Folder/wait_week_effect.png)
 
-We can see by the graph down here the relationship between week day over componantes of the overall waiting times 
-
-![Alt_text](Folder/distributions_of_time.png)
 
 
 
-
-
-
-#### We can can now start to have fun distinguising the strange relations, starting with my favorite (correlation matrix)
+ We can can distinguising the relations, starting with correlation matrix:
 
 ![Alt_texe](Folder/corrr.png)
 
 
-Seeing this great pair plot of all relationships among the data set:
+
+
+Seeing this pair plot of all relationships among the data set:
 
 
 
@@ -98,7 +90,7 @@ Seeing this great pair plot of all relationships among the data set:
 
 
 
-## REGRESSION ANALYSIS FOUNDINGS
+## REGRESSION ANALYSIS KEY FINDINGS
 
 
 
