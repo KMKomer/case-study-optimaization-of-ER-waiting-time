@@ -50,13 +50,8 @@ The frequency of wait time make us capable of easly noticing that most people wa
 
 ### EXAMPLES OF KEY RELATIONSHIPS 
 
-1- Here we see the average waiting time per different hours of the day:
 
-
-![Alt_text](Folder/hour.png)
-
-
-2- Also here we see a clear effect by month. we recognise a great increasement over Christmas and Easter holidays:
+1- Also here we see a clear effect by month. we recognise a great increasement over Christmas and Easter holidays:
 
 
 
@@ -64,21 +59,20 @@ The frequency of wait time make us capable of easly noticing that most people wa
 
 
 
-3- We can clearly see the great effect of monday (and weekends genrally) on high wait time:
+2- We can clearly see the great effect of and weekends genrally on high wait time:
 
 ![Alt_text](Folder/wait_week_effect.png)
 
 
 
 
- We can can distinguising the relations, starting with correlation matrix:
+3- We can can distinguising the relations, starting with correlation matrix:
 
 ![Alt_texe](Folder/corrr.png)
 
 
 
-
-Seeing this pair plot of all relationships among the data set:
+4- Seeing this pair plot of all relationships among the data set:
 
 
 
@@ -90,7 +84,7 @@ Seeing this pair plot of all relationships among the data set:
 
 
 
-## REGRESSION ANALYSIS KEY FINDINGS
+## REGRESSION ANALYSIS 
 
 
 
