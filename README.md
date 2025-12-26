@@ -59,9 +59,11 @@ The frequency of wait time make us capable of easly noticing that most people wa
 
 
 
+
 2- We can clearly see the great effect of and weekends genrally on high wait time:
 
 ![Alt_text](Folder/wait_week_effect.png)
+
 
 
 
@@ -72,19 +74,6 @@ The frequency of wait time make us capable of easly noticing that most people wa
 
 
 
-4- Seeing this pair plot of all relationships among the data set:
-
-
-
-![Alt_text](Folder/pairplot.png)
-
-
-
-
-
-
-
-## REGRESSION ANALYSIS 
 
 
 
