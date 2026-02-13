@@ -51,6 +51,8 @@ The frequency of wait time make us capable of easly noticing that most people wa
 ### EXAMPLES OF KEY RELATIONSHIPS 
 
 
+
+
 1- Also here we see a clear effect by month. we recognise a great increasement over Christmas and Easter holidays:
 
 
@@ -60,9 +62,13 @@ The frequency of wait time make us capable of easly noticing that most people wa
 
 
 
+
+
 2- We can clearly see the great effect of and weekends genrally on high wait time:
 
 ![Alt_text](Folder/wait_week_effect.png)
+
+
 
 
 
